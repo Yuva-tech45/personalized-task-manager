@@ -1,2 +1,2 @@
-# personalized task manager
-A simple to-do list application using Python and SQL
+# personalized-task-manager
+A personalized task manager built using Python and SQL, focused on managing tasks efficiently with basic CRUD operations.
