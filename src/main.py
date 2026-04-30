@@ -1,5 +1,5 @@
+# Entry point for the Personalized Task Manager application
 import datetime
-
 class Task: 
     def __init__(self, title, description, due_date): 
         self.title = title 
