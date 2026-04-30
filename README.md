@@ -1,2 +1,2 @@
 # personalized-task-manager
-A personalized task manager built using Python and SQL, focused on managing tasks efficiently with basic CRUD operations.
+A simple task manager I built using Python and SQL while learning how to connect applications with databases.
